@@ -1,0 +1,16 @@
+@import url(./CSS/cabecalho.css);
+
+:root {
+    --cor-de-fundo: #f5f5f5;
+    --cor-borda-transparente: #ddd;
+    --cor-fonte-cabecalho: #667085;
+    --cor-branco: #ffffff;
+    --cor-fundo-botao-cadastrar: #8E2424;
+}
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+}
