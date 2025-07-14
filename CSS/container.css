@@ -4,7 +4,7 @@
    justify-content: space-around;
    padding: 1.25rem 2.5rem;
    background-color: var(--cor-de-fundo);
-   border-bottom: 1px solid var(--cor-borda-transparente);
+   border-bottom: 1px solid var(--cor-branco);
 }
 
 .menu__lista {
@@ -14,7 +14,7 @@
 
 .menu__lista-item {
     margin: 0 1.5rem;
-    font-size: 1.5rem;
+    font-size: 1rem;
     color: var(--cor-fonte-container);
 }
 
@@ -28,16 +28,16 @@
 }
 
 .botao__lista-item {
-    font-size: 1.5rem;
+    font-size: 1rem;
     color: var(--cor-fonte-container);
     margin: 0.5rem;
 }
 
 .botao__lista-link-link {
     text-decoration: none;
-    border: 0.1rem solid var(--cor-borda-transparente);
+    border: 0.1rem solid var(--cor-branco);
     background-color: var(--cor-branco);
-    border-radius: 1rem;
+    border-radius: 0.5rem;
     color: var(--cor-fonte-container);
     padding: 0.5rem;
 }
@@ -46,7 +46,7 @@
     text-decoration: none;
     border: 0.1rem solid #000000;
     background-color: var(--cor-fundo-botao-cadastrar);
-    border-radius: 1rem;
+    border-radius: 0.5rem;
     color: var(--cor-branco);
     padding: 0.5rem;
 }

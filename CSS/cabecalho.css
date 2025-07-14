@@ -6,7 +6,7 @@
 .cabecalho__sub-titulo {
     text-align: center;
     font-size: 1rem;
-    color: var(--cor-fundo-botao-cadastrar);
+    color: var(--cor-secundaria);
 }
 
 .cabecalho__titulo {

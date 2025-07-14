@@ -1,5 +1,6 @@
 @import url(./CSS/container.css);
 @import url(./CSS/cabecalho.css);
+@import url(./CSS/metricas.css);
 
 :root {
     --cor-de-fundo: #f5f5f5;
@@ -7,6 +8,7 @@
     --cor-fonte-container: #667085;
     --cor-branco: #ffffff;
     --cor-fundo-botao-cadastrar: #8E2424;
+    --cor-secundaria: #8e2424;
     --cor-titulo: #101828;
     --fonte-principal: "inter";
 }
