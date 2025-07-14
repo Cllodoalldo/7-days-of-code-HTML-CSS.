@@ -1,0 +1,35 @@
+.vagas__container {
+    display: block;
+    justify-items: center;
+}
+
+.vagas {
+    display: block;
+    justify-items: center;
+}
+
+.vagas__sub-titulo {
+    font-size: 0.87rem;
+    font-weight: 400;
+    color: var(--cor-secundaria);
+    background-color: var(--cor-secundaria-opacidade);
+}
+
+.vagas__titulo {
+    font-size: 2.25rem;
+    font-weight: 500;
+    color: var(--cor-titulo);
+    margin: 2.75rem 0;
+}
+
+.vagas__texto {
+    font-size: 1.25rem;
+    font-weight: 300;
+    color: var(--cor-fonte-container);
+}
+
+.vagas__imagem {
+    margin-top: 5rem;
+    max-width: 100%;
+}
+
