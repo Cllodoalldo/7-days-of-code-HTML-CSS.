@@ -3,6 +3,7 @@
 @import url(./CSS/metricas.css);
 @import url(./CSS/oferta.css);
 @import url(./CSS/vagas.css);
+@import url(./CSS/depoimento.css);
 
 :root {
     --cor-de-fundo: #f5f5f5;

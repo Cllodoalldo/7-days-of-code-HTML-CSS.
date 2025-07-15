@@ -1,0 +1,39 @@
+.depoimento__container {
+    display: grid;
+    justify-items: center;
+    padding: 4rem;
+}
+
+.depoimento__texto {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--cor-secundaria);
+}
+
+.depoimento__titulo {
+    font-size: 2.25rem;
+    font-weight: 500;
+    color: var(--cor-titulo);
+    text-align: center;
+    margin: 1rem 0 2rem 0;
+}
+
+.depoimento__imagem {
+    max-width: 100%;
+}
+
+.depoimento__informacao-nome {
+    font-size: 1rem;
+    font-weight: 500;
+    color: var(--cor-titulo);
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.depoimento__informacao-cargo {
+    font-size: 0.9rem;
+    font-weight: 400;
+    color: var(--cor-fonte-container);
+    text-align: center;
+    margin-top: 0.25rem;
+}

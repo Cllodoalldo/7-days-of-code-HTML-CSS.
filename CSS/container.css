@@ -15,6 +15,7 @@
 .menu__lista-item {
     margin: 0 1.5rem;
     font-size: 1rem;
+    font-weight: 500;
     color: var(--cor-fonte-container);
 }
 
@@ -29,6 +30,7 @@
 
 .botao__lista-item {
     font-size: 1rem;
+    font-weight: 500;
     color: var(--cor-fonte-container);
     margin: 0.5rem;
 }
