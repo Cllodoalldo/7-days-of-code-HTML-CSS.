@@ -1,7 +1,7 @@
 .depoimento__container {
     display: grid;
     justify-items: center;
-    padding: 4rem;
+    padding: 4rem 4rem 6rem 4rem;
 }
 
 .depoimento__texto {
@@ -36,4 +36,5 @@
     color: var(--cor-fonte-container);
     text-align: center;
     margin-top: 0.25rem;
+    margin-bottom: 4rem;
 }
